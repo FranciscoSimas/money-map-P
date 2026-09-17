@@ -2,7 +2,7 @@
 
 # 💰 Money Map
 
-Web app for personal finance — expenses, income, savings and investments in one place.
+Web app for personal finance expenses, income, savings and investments in one place.
 
 ## 📖 About
 
@@ -57,5 +57,5 @@ This is a personal project. Suggestions are welcome, but I am not looking for ac
 Personal and educational use.
 
 ## 🔗 Links
-
+- **Website:** https://money-map-kappa.vercel.app
 - **Repository:** https://github.com/FranciscoSimas/money-map-P
