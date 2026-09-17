@@ -1,6 +1,6 @@
-# 💰 Money Map
+# **Último update:** 08/07/2026
 
-**Último update:** 17/09/2026
+# 💰 Money Map
 
 App web de finanças pessoais — despesas, receitas, poupança e investimentos num só sítio.
 
